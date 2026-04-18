@@ -61,6 +61,8 @@ app/
 ## 🚀 How to Run
 
 python main.py
+
+
 streamlit run app/streamlit_app.py
 
 📊 Features
