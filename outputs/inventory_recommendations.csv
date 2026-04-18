@@ -1,0 +1,4 @@
+Item,Demand_LeadTime,Safety_Stock,Reorder_Point,Current_Stock,Order_Quantity
+Item_1,359.51,42.06,401.57,62,339.57
+Item_2,329.62,42.75,372.38,133,239.38
+Item_3,287.91,22.7,310.61,95,215.61
