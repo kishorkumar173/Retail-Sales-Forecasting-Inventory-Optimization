@@ -79,6 +79,9 @@ Manual Data Upload
 Multi-store forecasting
 Deep learning models
 Real-time API integration
-👨‍💻 Author
 
+## 🌐 Live Demo
+Click Here to View App :https://retail-sales-forecasting-inventory-optimization-qdszhuwyvswulf.streamlit.app/
+
+👨‍💻 Author
 Kishor Kumar
